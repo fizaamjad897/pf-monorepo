@@ -1,0 +1,7 @@
+# New build output; original tracked exercise artifacts are preserved.
+/build/
+*.o
+*.obj
+*.exe
+*.out
+.DS_Store
