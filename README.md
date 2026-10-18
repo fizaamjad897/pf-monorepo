@@ -26,9 +26,11 @@ Each `.cpp` file is a separate program. Compile and run the exercise you want ra
 
 ```sh
 mkdir -p build
-g++ -std=c++11 pf/lab-03/task1.cpp -o build/task1
+g++ -std=c++11 -fpermissive pf/lab-03/task1.cpp -o build/task1
 ./build/task1
 ```
+
+The example uses GCC with `-fpermissive` because some early exercises omit the explicit return type on `main`. These are original coursework snapshots and may require adjustments for current compilers.
 
 Some exercises use Windows-specific console functions or headers such as `windows.h` or `conio.h`; those require a compatible Windows compiler or platform-specific changes. Original `.txt` files and compiled executables are retained with the exercises for completeness.
 
