@@ -1,0 +1,43 @@
+# Additional recovered coursework
+
+Recovered from the Remaining Projects/PF folder. Existing source was compared after removing whitespace. Only unique C++ translation units were added under `additional-coursework/`; existing history and files remain unchanged. Generated executables were not added. Some historical exercises depend on Windows console APIs or missing local data files.
+
+- `additional-coursework/pacmangame/gameapplication/eziofill.cpp`
+- `additional-coursework/pacmangame/gameapplication/eziogame.cpp`
+- `additional-coursework/pacmangame/gameapplication/eziogamenolevel.cpp`
+- `additional-coursework/pacmangame/gameapplication/game.cpp`
+- `additional-coursework/pacmangame/gameapplication/haha.cpp`
+- `additional-coursework/pacmangame/gameapplication/no.cpp`
+- `additional-coursework/pacmangame/gameapplication/tiktaktoe.cpp`
+- `additional-coursework/pdweek3/lalala.cpp`
+- `additional-coursework/pdweek3/task1.cpp`
+- `additional-coursework/pdweek3/task4.cpp`
+- `additional-coursework/pf13/task1.cpp`
+- `additional-coursework/pf13/task2.cpp`
+- `additional-coursework/pf13/task3.cpp`
+- `additional-coursework/pf13/tiltaktoe.cpp`
+- `additional-coursework/pf14/task5.cpp`
+- `additional-coursework/pf14/task6.cpp`
+- `additional-coursework/pflab12/New Text Document.cpp`
+- `additional-coursework/pflab12/signinsignup.cpp`
+- `additional-coursework/pflab12/task0.cpp`
+- `additional-coursework/pflab12/task1.cpp`
+- `additional-coursework/pflab5/task6.cpp`
+- `additional-coursework/pflab5/task7.cpp`
+- `additional-coursework/pflab7/task13.cpp`
+- `additional-coursework/pflab8/task18.cpp`
+- `additional-coursework/pfpdweek2/batman.cpp`
+- `additional-coursework/pfweek10/task1.cpp`
+- `additional-coursework/pfweek10/task2.cpp`
+- `additional-coursework/pfweek10/task3.cpp`
+- `additional-coursework/pfweek10/task4.cpp`
+- `additional-coursework/pfweek10/task5.cpp`
+- `additional-coursework/practicemode/Untitled-1.cpp`
+- `additional-coursework/practicemode/Untitled-2.cpp`
+- `additional-coursework/practicemode/console.cpp`
+- `additional-coursework/practicemode/countsprogram.cpp`
+- `additional-coursework/practicemode/dld.cpp`
+- `additional-coursework/practicemode/nono.cpp`
+- `additional-coursework/practicemode/pdtask.cpp`
+- `additional-coursework/practicemode/practicemode.cpp`
+- `additional-coursework/practicemode/task2.cpp`

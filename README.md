@@ -39,3 +39,7 @@ Some exercises use Windows-specific console functions or headers such as `window
 This repository brings together 13 original PF and PD repositories. Every original file and commit is preserved. Each source branch tip is also recorded under a `sources/<repository>/branches/<branch>` tag.
 
 The source-to-folder mapping and original commit IDs are listed in [SOURCES.md](SOURCES.md).
+
+## Additional recovered coursework
+
+See [the recovered-source index](ADDITIONAL_COURSEWORK.md) for unique exercises added from the local portfolio archive. Duplicate exercises were not copied again.

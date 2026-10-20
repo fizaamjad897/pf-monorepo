@@ -1,0 +1,123 @@
+#include <iostream>
+#include <windows.h>
+#include<conio.h>
+using namespace std;
+void header();
+main()
+{
+    string ch;
+    header();
+    cout<<endl;
+    cout << "Welcome to TicTacToe: \n1: Play\n2: Exit\n";
+    cin >> ch;
+    system("cls");
+     header();
+    cout<<endl;
+    cout << "  A   B   C\n";
+    cout << "1          \n";
+    cout << "2          \n";
+    cout << "3          \n";
+    cout << "Player 1(X) Turn: \n";
+    cin >> ch;
+
+    system("cls");
+     header();
+    cout<<endl;
+    cout << "  A  B  C\n";
+    cout << "1 X      \n";
+    cout << "2        \n";
+    cout << "3        \n";
+    cout << "Player 2(O) Turn: \n";
+    cin >> ch;
+    
+    system("cls");
+     header();
+    cout<<endl;
+    cout << "  A  B  C\n";
+    cout << "1 X      \n";
+    cout << "2    O   \n";
+    cout << "3        \n";
+    cout << "Player 1(X) Turn: \n";
+    cin >> ch;
+    
+    system("cls");
+     header();
+    cout<<endl;
+    cout << "  A  B  C\n";
+    cout << "1 X      \n";
+    cout << "2    O   \n";
+    cout << "3       X\n";
+    cout << "Player 2(O) Turn: \n";
+    cin >> ch;
+    
+    system("cls");
+     header();
+    cout<<endl;
+    cout << "  A  B  C\n";
+    cout << "1 X      \n";
+    cout << "2    O   \n";
+    cout << "3 O     X\n";
+    cout << "Player 1(X) Turn: \n";
+    cin >> ch;
+    
+    system("cls");
+     header();
+    cout<<endl;
+    cout << "  A  B  C\n";
+    cout << "1 X     X\n";
+    cout << "2    O   \n";
+    cout << "3 O     X\n";
+    cout << "Player 2(O) Turn: \n";
+    cin >> ch;
+    
+    system("cls");
+     header();
+    cout<<endl;
+    cout << "  A  B  C\n";
+    cout << "1 X  O  X\n";
+    cout << "2    O   \n";
+    cout << "3 O     X\n";
+    cout << "Player 1(X) Turn: \n";
+    cin >> ch;
+    
+    system("cls");
+     header();
+    cout<<endl;
+    cout << "  A  B  C\n";
+    cout << "1 X  O  X\n";
+    cout << "2 X  O   \n";
+    cout << "3 O     X\n";
+    cout << "Player 2(O) Turn: \n";
+    cin >> ch;
+
+    system("cls");
+     header();
+    cout<<endl;
+    cout << "  A  B  C\n";
+    cout << "1 X  O  X\n";
+    cout << "2 X  O  O\n";
+    cout << "3 O  O  X\n";
+    cout << "Player 2(O) wins the game \n";
+    cout<<"Press any key to go back"<<endl;
+    getch();
+    
+    system("cls");
+     header();
+    cout<<endl;
+    cout << "Welcome to TicTacToe: \n1: Play\n2: Exit\n";
+    cin >> ch;
+}
+void header()
+{
+    cout<< "##################################" <<endl;
+    cout<< "#                                #" <<endl;
+    cout<< "#                                #" <<endl;
+    cout<< "#                                #" <<endl;
+    cout<< "#          TikTakToe             #" <<endl;
+    cout<< "#                                #" <<endl;
+    cout<< "#                                #" <<endl;
+    cout<< "#                                #" <<endl;
+    cout<< "#                                #" <<endl;
+    cout<< "##################################" <<endl;
+
+}
